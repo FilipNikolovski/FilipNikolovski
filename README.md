@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+👨‍💻 I’m a software engineer from Skopje, Macedonia with a passion for computers, programming and designing and developing distributed systems.
+
+✍️ I also maintain a blog - you can find my ramblings on my website at https://filipnikolovski.com.
+
+📫 You can find me on [twitter](https://twitter.com/fffiiicc), or shoot me an e-mail at me@filipnikolovski.com
 
 <!--
 **FilipNikolovski/FilipNikolovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
