@@ -2,7 +2,7 @@
 
 I’m a software engineer from Skopje, Macedonia, currently working [@InPlayer](https://github.com/inplayer-org).
 
-I also maintain a blog where I occasionaly write about tech related things https://filipnikolovski.com.
+I also maintain a blog where I occasionally write about tech related things https://filipnikolovski.com.
 
 📫 You can reach me at me@filipnikolovski.com
 
