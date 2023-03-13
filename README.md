@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I’m a software engineer from Skopje, Macedonia, currently working [@InPlayer](https://github.com/inplayer-org).
+I’m a software engineer from Skopje, Macedonia, currently working [@JWPlayer](https://github.com/jwplayer).
 
 I also maintain a blog where I occasionally write about tech related things https://filipnikolovski.com.
 
